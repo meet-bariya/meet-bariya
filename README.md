@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **meet-bariya/meet-bariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,7 +38,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Django or Node based projects**
 
-- 📫 How to reach me **meetybariya@gmail.com | @MeetBariya007 on Twitter**
+- 📫 How to reach me **meetybariya@gmail.com | <a href="https://twitter.com/MeetBariya007">@MeetBariya007</a> on Twitter**
 
 
 
