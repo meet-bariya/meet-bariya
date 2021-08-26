@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Meet Bariya</h1>
-<h3 align="center">Sophomore student pursuing BE. Learning about devops and Cloud Computing. Looking forward to work in devops or django project</h3>
+<h3 align="center">Sophomore pursuing BE in Information Technology. Learning about DevOps,Cloud Computing and Web Development. Looking forward to work in devops or django project. Open source contributor at GWOC Program.</h3>
 
 
 <p align="center"> <a href="https://twitter.com/MeetBariya007" target="blank"><img src="https://img.shields.io/twitter/follow/MeetBariya007?logo=twitter&style=for-the-badge" alt="MeetBariya007" /></a> </p>
