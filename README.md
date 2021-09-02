@@ -34,4 +34,3 @@
 <img align="left" alt="React" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 <img align="left" alt="Node" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<img align="left" alt="Heroku" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
