@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/MeetBariya007" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="MeetBariya007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meet-bariya" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://linkedin.com/in/meet-bariya" height="30" width="40" /></a>
-
+<a href="https://meetbariya.hashnode.dev" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="meetbariya.hashnode.dev" height="30" width="40" /></a>
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
