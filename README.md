@@ -4,13 +4,11 @@
 
 <p align="center"> <a href="https://twitter.com/MeetBariya007" target="blank"><img src="https://img.shields.io/twitter/follow/MeetBariya007?logo=twitter&style=for-the-badge" alt="MeetBariya007" /></a> </p>
 
-- 🔭 I’m currently preparing for **az-900 certification.**
+- 🔭 I’m currently learning **Data Structures and Algorithm.**
 
-- 🌱 I’m currently learning **Devops and Cloud Computing.**
+- 👯 I’m looking to collaborate on **Django project**
 
-- 👯 I’m looking to collaborate on **Django or Node based projects**
-
-- 📫 How to reach me **meetybariya@gmail.com | <a href="https://twitter.com/MeetBariya007">@MeetBariya007</a> on Twitter**
+- 📫 How to reach me **<a href="https://twitter.com/MeetBariya007">@MeetBariya007</a> on Twitter**
 
 
 
